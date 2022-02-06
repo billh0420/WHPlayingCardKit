@@ -1,9 +1,8 @@
 //
 //  Card.swift
-//  CardImageKit
+//  WHPlayingCardKit
 //
 //  Created by William Hale on 9/30/14.
-//  Copyright (c) 2014 William Hale. All rights reserved.
 //
 
 /// A playing card with a given rank, suit, and pack id.
