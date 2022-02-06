@@ -1,9 +1,8 @@
 //
 //  Suit.swift
-//  CardImageKit
+//  WHPlayingCardKit
 //
 //  Created by William Hale on 10/7/14.
-//  Copyright (c) 2014 William Hale. All rights reserved.
 //
 
 import SpriteKit
